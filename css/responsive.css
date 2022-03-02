@@ -1,0 +1,1069 @@
+@media (max-width: 575.98px) { 
+    /* Navber Part Start */
+    #navber .tg_icon{
+        color: white;
+    }
+    #navber .logo_img{
+        width: 110px;
+    }
+    #navber {
+        padding-top: 8px;
+    }
+    #navber ul{
+        background: #0000009b;
+    }
+    #navber .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    /* Navber Part End */
+    
+    /* Banner Part Start */
+    #banner .banner_text h3 {
+        font-size: 20px;
+    }
+    #banner .banner_text h1 {
+        font-size: 37px;
+        font-weight: 700;
+        line-height: 1;
+    }
+    #banner .banner_text p {
+        font-size: 10px;
+    }
+    #banner .banner_text a {
+        font-size: 10px;
+        font-weight: 600;
+        padding: 8px 17px;
+        border-radius: 3px;
+        box-shadow: 0 2px #736357;
+    }
+    #banner .overlay {
+        padding-top: 126px;
+        padding-bottom: 100px;
+    }
+    /* Banner Part End */
+    
+    /* Service Part Start */
+    #service {
+        padding: 35px 0;
+    }
+    .service_item .text_part {
+        padding-bottom: 10px;
+    }
+    .service_item{
+        margin-bottom: 20px;
+    }
+    .service_item.last{
+        margin-bottom: 0px;
+    }
+    .service_item .text_part h4 {
+        font-size: 18px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        color: #555555;
+        transition: all linear .3s;
+    }
+    .service_item .text_part p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .service_item .img_part {
+        height: 47px;
+    }
+    .service_item .img_part .before,.after {
+        width: 40px;
+    }
+    /* Service Part End */
+    
+    /* Slider Part Start */
+    .slider_text h4 {
+        font-size: 27px;
+    }
+    .slider_text p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    /* Slider Part End */
+    
+    /* Wordpress Part Start */
+    #wordpress {
+        padding: 21px 0;
+    }
+    .wp_text h4 {
+        font-size: 15px;
+        margin-bottom: 4px;
+        text-align: center;
+    }
+    .wp_text p {
+        font-size: 10px;
+        line-height: 1;
+        text-align: center;
+    }
+    .wp_btn{
+        text-align: center;
+    }
+    .wp_btn a {
+        font-size: 10px;
+        font-weight: 500;
+        padding: 5px 10px;
+        padding-bottom: 4px;
+        border-bottom: 1px solid #736357;
+        border-radius: 3px;
+        text-align: center;
+    }
+    /* Wordpress Part End */
+    
+    /* Project Part Start */
+    #project {
+        padding-top: 26px;
+        padding-bottom: 30px;
+    }
+    .project_head h4 {
+        font-size: 22px;
+    }
+    .project_head p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .pr_btn button {
+        padding: 0px 6px;
+        font-size: 8px;
+        margin-left: 1px;
+        border-radius: 2px;
+    }
+    .project_item .text_part {
+        padding: 20px 30px;
+    }
+    .project_item .text_part::after {
+        content: "";
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: -7px;
+        left: 4%;
+    }
+    .project_item .text_part h4 {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .project_item .text_part p {
+        font-size: 11px;
+    }
+    .project_item .img_part .p_overlay a {
+        font-size: 16px;
+    }
+    #project .btn{
+        display: block;
+    }
+    #project .btn a {
+        font-size: 8px;
+        font-weight: 500;
+        padding: 5px 10px;
+        padding-bottom: 4px;
+        border-bottom: 1px solid #736357;
+        border-radius: 3px;
+        text-align: center;
+        display: inline-block;
+    }
+    /* Project Part End */
+    
+    /* Video Part Start */
+    #video .overlay {
+        padding: 30px 0;
+    }
+    #video .overlay img {
+        margin-bottom: 12px;
+        padding: 10px;
+        width: 72px;
+    }
+    #video .overlay h4 {
+        font-size: 20px;
+        margin-bottom: 4px;
+    }
+    #video .overlay p {
+        font-size: 10px;
+        line-height: 15px;
+    }
+    /* Video Part End */
+    
+    /* Mobile Part Start */
+    #mobile .img img{
+        width: 180px;
+    }
+    #mobile .text h4 {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+    #mobile .text p {
+        font-size: 11px;
+        line-height: 1.6;
+    }
+    #mobile .text ul {
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+    #mobile .text ul li p a {
+        height: 15px;
+        width: 15px;
+        border-radius: 50%;
+        line-height: 15px;
+        margin-right: 8px;
+    }
+    
+    /* Mobile Part End */
+    
+    /* Client Part Start */
+    #client {
+        padding-top: 22px;
+        padding-bottom: 10px;
+    }
+    .client_item span {
+        font-size: 20px;
+        padding-bottom: 5px;
+    }
+    .client_item h4 {
+        font-size: 40px;
+        padding-top: 0px;
+        margin-bottom: 5px;
+    }
+    .client_item p {
+        font-size: 12px;
+        height: 25px;
+        margin-bottom: 20px;
+    }
+    /* Client Part End */
+    
+    /* Post Part Start */
+    #post {
+        padding-top: 45px;
+        padding-bottom: 80px;
+    }
+    .nextArrow {
+        position: absolute;
+        bottom: -40px;
+        right: 39.5%;
+    }
+    .prevArrow {
+        position: absolute;
+        bottom: -40px;
+        left: 40.5%;
+    }
+    .post_text h4 {
+        font-size: 25px;
+        margin-bottom: 5px;
+    }
+    .post_text p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .post_item .calander .day p {
+        font-size: 16px;
+    }
+    .post_item .calander .day {
+        padding: 4px 8px;
+    }
+    .post_item .calander .month {
+        padding: 3px 7px;
+    }
+    .post_item .calander {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+    }
+    .post_item .text_part {
+        padding: 15px;
+    }
+    .post_item .text_part h4 {
+        font-size: 14px;
+    }
+    .post_item .text_part p {
+        font-size: 10px;
+        margin-bottom: 5px;
+    }
+    .post_item .text_part a {
+        font-size: 10px;
+    }
+    /* Post Part End */
+    
+    /* CL LOGO Part Start */
+    #cl_logo .overlay {
+        padding: 66px 0;
+    }
+    #cl_logo .logo img{
+        width: 92px;
+    }
+    #cl_logo .logo{
+        margin-bottom: 20px;
+    }
+    #cl_logo .logo.last{
+        margin-bottom: 0px;
+    }
+    /* CL LOGO Part End */
+    
+    /* Footer Part Start */
+    footer #f_one {
+        padding: 30px 0;
+    }
+    footer #f_one .item .logo img {
+        width: 100px;
+    }
+    footer #f_one .item .text {
+        padding-top: 15px;
+    }
+    footer #f_one .item .text p {
+        font-size: 12px;
+        line-height: 20px;
+        margin-bottom: 0;
+    }
+    footer #f_one .item .text a {
+        font-size: 12px;
+    }
+    footer #f_one .item h3 {
+        padding-top: 25px;
+        padding-bottom: 0px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    footer #f_one .item.two ul li a h5 {
+        font-size: 10px;
+    }
+    footer #f_one .item.two ul li a p {
+        font-size: 12px;
+    }
+    footer #f_one .item ul li {
+        padding-bottom: 7px;
+    }
+    footer #f_two {
+        padding: 25px 0;
+        text-align: center;
+    }
+    /* Footer Part End */
+ }
+ @media(min-width: 576px) and (max-width: 767.98px) { 
+     /* Navber Part Start */
+    #navber .tg_icon{
+        color: white;
+    }
+    #navber .logo_img{
+        width: 120px;
+    }
+    #navber {
+        padding-top: 8px;
+    }
+    #navber ul{
+        background: #0000009b;
+    }
+    #navber .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #navber .navbar-light .navbar-toggler {
+        color: none;
+        border-color: #ffffff;
+    }
+    /* Navber Part End */
+    
+    /* Banner Part Start */
+    #banner .banner_text h3 {
+        font-size: 24px;
+    }
+    #banner .banner_text h1 {
+        font-size: 46px;
+        font-weight: 700;
+        line-height: 1;
+    }
+    #banner .banner_text p {
+        font-size: 16px;
+    }
+    #banner .banner_text a {
+        font-size: 14px;
+        font-weight: 700;
+        padding: 10px 21px;
+        border-radius: 5px;
+        box-shadow: 0 3px #736357;
+    }
+    #banner .overlay {
+        padding-top: 126px;
+        padding-bottom: 100px;
+    }
+    /* Banner Part End */
+    
+    /* Service Part Start */
+    #service {
+        padding: 35px 0;
+    }
+    .service_item .text_part {
+        padding-bottom: 10px;
+    }
+    .service_item{
+        margin-bottom: 20px;
+    }
+    .service_item.last{
+        margin-bottom: 0px;
+    }
+    .service_item .text_part h4 {
+        font-size: 18px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        color: #555555;
+        transition: all linear .3s;
+    }
+    .service_item .text_part p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .service_item .img_part {
+        height: 47px;
+    }
+    .service_item .img_part .before,.after {
+        width: 40px;
+    }
+    /* Service Part End */
+    
+    /* Slider Part Start */
+    .slider_text h4 {
+        font-size: 27px;
+    }
+    .slider_text p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    #slider .slider img {
+        transform: none;
+    }
+    /* Slider Part End */
+    
+    /* Wordpress Part Start */
+    #wordpress {
+        padding: 21px 0;
+    }
+    .wp_text h4 {
+        font-size: 15px;
+        margin-bottom: 4px;
+        text-align: left;
+    }
+    .wp_text p {
+        font-size: 10px;
+        line-height: 1;
+        text-align: left;
+        margin: 0;
+    }
+    .wp_btn{
+        text-align: right;
+
+    }
+    .wp_btn a {
+        font-size: 10px;
+        font-weight: 500;
+        padding: 5px 10px;
+        padding-bottom: 4px;
+        border-bottom: 1px solid #736357;
+        border-radius: 3px;
+        text-align: center;
+    }
+    /* Wordpress Part End */
+    
+    /* Project Part Start */
+    #project {
+        padding-top: 26px;
+        padding-bottom: 30px;
+    }
+    .project_head h4 {
+        font-size: 22px;
+    }
+    .project_head p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .pr_btn button {
+        padding: 4px 9px;
+        font-size: 14px;
+        margin-left: 1px;
+        border-radius: 4px;
+    }
+    .project_item .text_part {
+        padding: 20px 20px;
+    }
+    .project_item .text_part::after {
+        content: "";
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: -7px;
+        left: 4%;
+    }
+    .project_item .text_part h4 {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .project_item .text_part p {
+        font-size: 11px;
+    }
+    .project_item .img_part .p_overlay a {
+        font-size: 16px;
+    }
+    #project .btn{
+        display: block;
+    }
+    #project .btn a {
+        font-size: 14px;
+        font-weight: 600;
+        padding: 9px 14px;
+        padding-bottom: 4px;
+        border-bottom: 1px solid #736357;
+        border-radius: 6px;
+        text-align: center;
+        display: inline-block;
+    }
+    /* Project Part End */
+    
+    /* Video Part Start */
+    #video .overlay {
+        padding: 35px 0;
+    }
+    #video .overlay img {
+        margin-bottom: 12px;
+        padding: 10px;
+        width: 72px;
+    }
+    #video .overlay h4 {
+        font-size: 28px;
+        margin-bottom: 4px;
+    }
+    #video .overlay p {
+        font-size: 13px;
+        line-height: 15px;
+    }
+    /* Video Part End */
+    
+    /* Mobile Part Start */
+    #mobile {
+        padding-top: 25px;
+        padding-bottom: 15px;
+    }
+    #mobile .img img{
+        width: 180px;
+    }
+    #mobile .text h4 {
+        font-size: 28px;
+        margin-bottom: 5px;
+    }
+    #mobile .text p {
+        font-size: 13px;
+        line-height: 1.6;
+    }
+    #mobile .text ul {
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+    #mobile .text ul li p a {
+        height: 15px;
+        width: 15px;
+        border-radius: 50%;
+        line-height: 15px;
+        margin-right: 8px;
+    }
+    
+    /* Mobile Part End */
+    
+    /* Client Part Start */
+    #client {
+        padding-top: 22px;
+        padding-bottom: 10px;
+    }
+    .client_item span {
+        font-size: 20px;
+        padding-bottom: 5px;
+    }
+    .client_item h4 {
+        font-size: 40px;
+        padding-top: 0px;
+        margin-bottom: 5px;
+    }
+    .client_item p {
+        font-size: 12px;
+        height: 25px;
+        margin-bottom: 20px;
+    }
+    /* Client Part End */
+    
+    /* Post Part Start */
+    #post {
+        padding-top: 45px;
+        padding-bottom: 80px;
+    }
+    .nextArrow {
+        position: absolute;
+        bottom: -40px;
+        right: 42.5%;
+    }
+    .prevArrow {
+        position: absolute;
+        bottom: -40px;
+        left: 46.5%;
+    }
+    .post_text h4 {
+        font-size: 25px;
+        margin-bottom: 5px;
+    }
+    .post_text p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .post_item .calander .day p {
+        font-size: 16px;
+    }
+    .post_item .calander .day {
+        padding: 4px 8px;
+    }
+    .post_item .calander .month {
+        padding: 3px 7px;
+    }
+    .post_item .calander {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+    }
+    .post_item .text_part {
+        padding: 15px;
+    }
+    .post_item .text_part h4 {
+        font-size: 14px;
+    }
+    .post_item .text_part p {
+        font-size: 10px;
+        margin-bottom: 5px;
+    }
+    .post_item .text_part a {
+        font-size: 10px;
+    }
+    /* Post Part End */
+    
+    /* CL LOGO Part Start */
+    #cl_logo .overlay {
+        padding: 26px 0;
+    }
+    #cl_logo .logo img{
+        width: 92px;
+    }
+    #cl_logo .logo{
+        margin-bottom: 20px;
+    }
+    #cl_logo .logo.last{
+        margin-bottom: 0px;
+    }
+    /* CL LOGO Part End */
+    
+    /* Footer Part Start */
+    footer #f_one {
+        padding: 30px 0;
+    }
+    footer #f_one .item .logo img {
+        width: 100px;
+    }
+    footer #f_one .item .text {
+        padding-top: 15px;
+    }
+    footer #f_one .item .text p {
+        font-size: 12px;
+        line-height: 20px;
+        margin-bottom: 0;
+    }
+    footer #f_one .item .text a {
+        font-size: 12px;
+    }
+    footer #f_one .item h3 {
+        padding-top: 25px;
+        padding-bottom: 0px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    footer #f_one .item.two ul li a h5 {
+        font-size: 10px;
+    }
+    footer #f_one .item.two ul li a p {
+        font-size: 12px;
+    }
+    footer #f_one .item ul li {
+        padding-bottom: 7px;
+    }
+    footer #f_two {
+        padding: 25px 0;
+        text-align: center;
+    }
+    footer #f_two .second{
+        text-align: center;
+    }
+    /* Footer Part End */
+ }
+ @media(min-width: 768px) and (max-width: 991.98px) { 
+    /* Navber Part Start */
+    #navber .tg_icon{
+        color: white;
+    }
+    #navber .logo_img{
+        width: 120px;
+    }
+    #navber {
+        padding-top: 8px;
+    }
+    #navber ul {
+        background: #000000d4;
+        width: 221px;
+    }
+    #navber ul li{
+        transition: all linear .3s;
+      }
+    #navber ul li:hover {
+        background: #ffffff;
+        color: #000000;
+      }
+    #navber ul li a:hover {
+        color: #000000;
+      }
+    #navber .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #navber .navbar-light .navbar-toggler {
+        color: none;
+        border-color: #ffffff;
+    }
+    /* Navber Part End */
+    
+    /* Banner Part Start */
+    #banner .banner_text h3 {
+        font-size: 24px;
+    }
+    #banner .banner_text h1 {
+        font-size: 46px;
+        font-weight: 700;
+        line-height: 1;
+    }
+    #banner .banner_text p {
+        font-size: 16px;
+    }
+    #banner .banner_text a {
+        font-size: 14px;
+        font-weight: 700;
+        padding: 10px 21px;
+        border-radius: 5px;
+        box-shadow: 0 3px #736357;
+    }
+    #banner .overlay {
+        padding-top: 126px;
+        padding-bottom: 100px;
+    }
+    /* Banner Part End */
+    
+    /* Service Part Start */
+    #service {
+        padding: 35px 0;
+    }
+    .service_item .text_part {
+        padding-bottom: 10px;
+    }
+    .service_item{
+        margin-bottom: 20px;
+    }
+    .service_item.last{
+        margin-bottom: 0px;
+    }
+    .service_item .text_part h4 {
+        font-size: 18px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        color: #555555;
+        transition: all linear .3s;
+    }
+    .service_item .text_part p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .service_item .img_part {
+        height: 47px;
+    }
+    .service_item .img_part .before,.after {
+        width: 40px;
+    }
+    /* Service Part End */
+    
+    /* Slider Part Start */
+    .slider_text h4 {
+        font-size: 27px;
+    }
+    .slider_text p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    #slider .slider img {
+        transform: none;
+    }
+    /* Slider Part End */
+    
+    /* Wordpress Part Start */
+    #wordpress {
+        padding: 21px 0;
+    }
+    .wp_text h4 {
+        font-size: 20px;
+        margin-bottom: 4px;
+        text-align: left;
+    }
+    .wp_text p {
+        font-size: 14px;
+        line-height: 1;
+        text-align: left;
+        margin: 0;
+    }
+    .wp_btn{
+        text-align: right;
+
+    }
+    .wp_btn a {
+        font-size: 13px;
+        font-weight: 500;
+        padding: 5px 10px;
+        padding-bottom: 4px;
+        border-bottom: 1px solid #736357;
+        border-radius: 3px;
+        text-align: center;
+    }
+    /* Wordpress Part End */
+    
+    /* Project Part Start */
+    #project {
+        padding-top: 26px;
+        padding-bottom: 30px;
+    }
+    .project_head h4 {
+        font-size: 22px;
+    }
+    .project_head p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .pr_btn button {
+        padding: 4px 9px;
+        font-size: 14px;
+        margin-left: 1px;
+        border-radius: 4px;
+    }
+    .project_item .text_part {
+        padding: 20px 20px;
+    }
+    .project_item .text_part::after {
+        content: "";
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        top: -7px;
+        left: 4%;
+    }
+    .project_item .text_part h4 {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .project_item .text_part p {
+        font-size: 11px;
+    }
+    .project_item .img_part .p_overlay a {
+        font-size: 16px;
+    }
+    #project .btn{
+        display: block;
+    }
+    #project .btn a {
+        font-size: 14px;
+        font-weight: 600;
+        padding: 9px 14px;
+        padding-bottom: 4px;
+        border-bottom: 1px solid #736357;
+        border-radius: 6px;
+        text-align: center;
+        display: inline-block;
+    }
+    /* Project Part End */
+    
+    /* Video Part Start */
+    #video .overlay {
+        padding: 35px 0;
+    }
+    #video .overlay img {
+        margin-bottom: 12px;
+        padding: 10px;
+        width: 72px;
+    }
+    #video .overlay h4 {
+        font-size: 28px;
+        margin-bottom: 4px;
+    }
+    #video .overlay p {
+        font-size: 13px;
+        line-height: 15px;
+    }
+    /* Video Part End */
+    
+    /* Mobile Part Start */
+    #mobile {
+        padding-top: 25px;
+        padding-bottom: 0;
+    }
+    #mobile .img img{
+        width: 231px;
+    }
+    #mobile .text h4 {
+        font-size: 28px;
+        margin-bottom: 5px;
+    }
+    #mobile .text p {
+        font-size: 12px;
+        line-height: 1.6;
+    }
+    #mobile .text ul {
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+    #mobile .text ul li p a {
+        height: 15px;
+        width: 15px;
+        border-radius: 50%;
+        line-height: 15px;
+        margin-right: 8px;
+    }
+    
+    /* Mobile Part End */
+    
+    /* Client Part Start */
+    #client {
+        padding-top: 22px;
+        padding-bottom: 10px;
+    }
+    .client_item span {
+        font-size: 20px;
+        padding-bottom: 5px;
+    }
+    .client_item h4 {
+        font-size: 40px;
+        padding-top: 0px;
+        margin-bottom: 5px;
+    }
+    .client_item p {
+        font-size: 12px;
+        height: 25px;
+        margin-bottom: 20px;
+    }
+    /* Client Part End */
+    
+    /* Post Part Start */
+    #post {
+        padding-top: 45px;
+        padding-bottom: 80px;
+    }
+    .nextArrow {
+        position: absolute;
+        bottom: -40px;
+        right: 43.5%;
+    }
+    .prevArrow {
+        position: absolute;
+        bottom: -40px;
+        left: 47.5%;
+    }
+    .post_text h4 {
+        font-size: 25px;
+        margin-bottom: 5px;
+    }
+    .post_text p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .post_item .calander .day p {
+        font-size: 16px;
+    }
+    .post_item .calander .day {
+        padding: 4px 8px;
+    }
+    .post_item .calander .month {
+        padding: 3px 7px;
+    }
+    .post_item .calander {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+    }
+    .post_item .text_part {
+        padding: 15px;
+    }
+    .post_item .text_part h4 {
+        font-size: 14px;
+    }
+    .post_item .text_part p {
+        font-size: 10px;
+        margin-bottom: 5px;
+    }
+    .post_item .text_part a {
+        font-size: 10px;
+    }
+    /* Post Part End */
+    
+    /* CL LOGO Part Start */
+    #cl_logo .overlay {
+        padding: 26px 0;
+    }
+    #cl_logo .logo img{
+        width: 92px;
+    }
+    #cl_logo .logo{
+        margin-bottom: 20px;
+    }
+    #cl_logo .logo.last{
+        margin-bottom: 0px;
+    }
+    /* CL LOGO Part End */
+    
+    /* Footer Part Start */
+    footer #f_one {
+        padding: 30px 0;
+    }
+    footer #f_one .item .logo img {
+        width: 100px;
+    }
+    footer #f_one .item .text {
+        padding-top: 15px;
+    }
+    footer #f_one .item .text p {
+        font-size: 12px;
+        line-height: 20px;
+        margin-bottom: 0;
+    }
+    footer #f_one .item .text a {
+        font-size: 12px;
+    }
+    footer #f_one .item h3 {
+        padding-top: 25px;
+        padding-bottom: 0px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    footer #f_one .item.two ul li a h5 {
+        font-size: 10px;
+    }
+    footer #f_one .item.two ul li a p {
+        font-size: 12px;
+    }
+    footer #f_one .item ul li {
+        padding-bottom: 7px;
+    }
+    footer #f_two {
+        padding: 20px 0;
+        text-align: center;
+    }
+    footer #f_two .second{
+        text-align: center;
+    }
+    /* Footer Part End */
+  }
+ 
+/* Navber Part Start */
+/* Navber Part End */
+/* Navber Part Start */
+/* Navber Part End */
+ 
