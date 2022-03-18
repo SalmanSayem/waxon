@@ -301,7 +301,7 @@ ul, ol{
     background: #362f2d;
     transition: all linear .3s;
 }
-.project_item .text_part::after{
+/* .project_item .text_part::after{
     content: "";
     width: 28px;
     height: 28px;
@@ -311,10 +311,10 @@ ul, ol{
     left: 5%;
     transform: rotate(45deg);
     transition: all linear .3s;
-}
-.project_item:hover .text_part::after{
+} */
+/* .project_item:hover .text_part::after{
     background: #362f2d;
-}
+} */
 .project_item .text_part h4{
     font-size: 20px;
     font-family: 'Raleway', sans-serif;
